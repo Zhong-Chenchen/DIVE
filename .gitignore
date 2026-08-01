@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info
+dist
+build/
+
+# Local Python environments and tool caches
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Log
+*.log
+*.log.*
+*.json
+*.jsonl
+!scripts/**/*.json
+
+# Data
+!**/alpaca-data-conversation.json
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb/
+output/
+logs/
+log/
+runs/
+
+checkpoints/
+ckpts*/
+weights/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+.ipynb_checkpoints
+*.ipynb
+
+# DevContainer
+!.devcontainer/*
+
+# Demo
+serve_images/
+
+# Downloaded datasets and generated evaluation artifacts
+playground/data/*
+!playground/data/README.md

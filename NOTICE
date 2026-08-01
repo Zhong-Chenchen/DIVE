@@ -1,0 +1,10 @@
+DIVE
+Copyright 2026 DIVE contributors
+
+This repository contains DIVE, a visual-token reduction implementation for
+vision-language models. It includes modified code derived from Apache-2.0
+licensed upstream projects.
+
+Original copyright, license, and attribution notices in source files are
+preserved. This NOTICE does not replace any notices shipped with upstream
+components or their dependencies.
