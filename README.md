@@ -7,6 +7,11 @@
 > vision-language models. It constructs visual evidence iteratively while
 > preserving the information needed by downstream text generation.
 
+## 🔥 News
+
+- **`2026.08.01`** 🤗🤗 We have released DIVE, a training-free method for efficient visual-token reduction in vision-language models.
+- **`2026.07.29`** 🤗🤗 The DIVE framework, LLaVA evaluation scripts, and Qwen2-VL and LLaVA-OneVision integrations are now available.
+
 ## 👀 Overview
 
 DIVE provides a native LLaVA-1.5/1.6 language-model path using the DIVE
