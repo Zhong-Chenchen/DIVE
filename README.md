@@ -1,6 +1,6 @@
 <div align="center">
   <img src="images/dive-banner-v3.png" alt="DIVE" width="450">
-  <h1>🤿 DIVE: Dynamic Iterative Visual Evidence Construction for<br>Efficient Vision-Language Models</h1>
+  <h1>🤿 DIVE: Dynamic Iterative Visual Evidence Construction<br>for Efficient Vision-Language Models</h1>
 </div>
 
 > **TL;DR:** DIVE is a training-free visual-token reduction method for efficient
