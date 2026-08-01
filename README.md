@@ -10,6 +10,13 @@
 > vision-language models. It constructs visual evidence iteratively while
 > preserving the information needed by downstream text generation.
 
+## ✨ Key Highlights
+
+- ⚡ **Efficient Inference:** Achieves a **1.68× end-to-end speedup** while maintaining near-full performance.
+- 🎯 **Extreme Compression:** Retains **98.2%** performance with only **64 visual tokens** (**88.9% reduction**).
+- 🔄 **Dynamic Selection:** Selects complementary, prompt-relevant visual evidence through iterative residual updates.
+- 🌐 **Broad Generalization:** Consistently improves image and video understanding across diverse VLM architectures.
+
 ## 🔥 News
 
 - **`2026.08.01`** 🤗🤗 We have released DIVE, a training-free method for efficient visual-token reduction in vision-language models.
