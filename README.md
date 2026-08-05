@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="images/dive-banner-v3.png" alt="DIVE" width="450">
+  <img src="images/dive-banner-v3.png" alt="DIVE" width="400">
   <h1>🤿 DIVE: Dynamic Iterative Visual Evidence Construction<br>for Efficient Vision-Language Models</h1>
   <a href="https://github.com/Zhong-Chenchen/DIVE"><img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" alt="GitHub Code"></a>
 </div>
 
 <p align="center">Welcome to star🌟 this repo or cite✨ the paper if you find it interesting😊</p>
 
-> **TL;DR:** DIVE is a training-free visual-token reduction method for efficient
-> vision-language models. It constructs visual evidence iteratively while
-> preserving the information needed by downstream text generation.
+> **TL;DR:** We introduce DIVE, a token pruning method that iteratively construct visual evidence to identify and remove redundant visual tokens.
 
 ## ✨ Key Highlights
 
