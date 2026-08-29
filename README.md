@@ -2,6 +2,7 @@
   <img src="images/dive-banner-v3.png" alt="DIVE" width="400">
   <h1>🤿 DIVE: Dynamic Iterative Visual Evidence Construction<br>for Efficient Vision-Language Models</h1>
   <a href="https://github.com/Zhong-Chenchen/DIVE"><img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" alt="GitHub Code"></a>
+  <a href="https://arxiv.org/abs/2608.04496"><img src="https://img.shields.io/badge/arXiv-2608.04496-b31b1b?logo=arxiv&logoColor=white" alt="arXiv 2608.04496"></a>
 </div>
 
 <p align="center">Welcome to star🌟 this repo or cite✨ the paper if you find it interesting😊</p>
