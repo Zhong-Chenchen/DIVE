@@ -98,5 +98,5 @@ upstream copyright and license notices are retained in the source files.
 
 ## 👍 Acknowledgment
 
-DIVE thanks the LLaVA, Qwen2-VL, DART, and lmms-eval communities for their
+DIVE thanks the [LLaVA](https://github.com/haotian-liu/llava), [QwenVL](https://github.com/QwenLM/Qwen-VL), [DART](https://github.com/ZichenWen1/DART), and [lmms-eval](https://github.com/evolvinglmms-lab/lmms-eval) communities for their
 open-source contributions.
