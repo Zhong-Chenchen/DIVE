@@ -86,10 +86,6 @@ cd othermodels/qwen2_vl
 bash eval_scripts/lmms_eval.sh True [reduction_ratio]
 ```
 
-### LLaVA-OneVision
-
-The DIVE adapter is available through lmms-eval as `llava_onevision`; its
-implementation is under `othermodels/llava_ov/`.
 
 ## 🔑 License
 
