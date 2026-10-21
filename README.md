@@ -86,6 +86,19 @@ cd othermodels/qwen2_vl
 bash eval_scripts/lmms_eval.sh True [reduction_ratio]
 ```
 
+## 📌 Citation
+
+Please consider citing [our paper](https://arxiv.org/abs/2608.04496) if you find DIVE useful for your research.
+
+```bibtex
+@article{zhong2026dive,
+  title={DIVE: Dynamic Iterative Visual Evidence Construction for Efficient Vision-Language Models},
+  author={Zhong, Chen and An, Xiao and Wang, Zijie and Li, Jiepan and Yang, Guangyi and He, Wei},
+  journal={arXiv preprint arXiv:2608.04496},
+  year={2026},
+  url={https://arxiv.org/abs/2608.04496}
+}
+```
 
 ## 🔑 License
 
